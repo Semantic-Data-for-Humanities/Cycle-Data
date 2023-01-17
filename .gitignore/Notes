@@ -1,0 +1,10 @@
+Note :
+* exporter un résultat tabulaire de Pandas : .reset_index().to_csv('df.csv')
+* [https://stackoverflow.com/questions/52631416/how-to-duplicate-and-modify-rows-in-a-pandas-dataframe](https://stackoverflow.com/questions/52631416/how-to-duplicate-and-modify-rows-in-a-pandas-dataframe)
+
+Next questions to ask the data:
+* quels capitaines travaillent avec quels armateurs
+* sur quels parcours ?
+* il y a des bateaux qui font tel parcours ?
+* quelle est la longévité des navires ?
+* combien de voyages par navire ?
