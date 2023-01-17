@@ -1,0 +1,48 @@
+p,pl,0
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,has type,58005
+http://www.w3.org/2000/01/rdf-schema#label,has label,58005
+https://ontome.net/ontology/p1111,is appellation for language of,21521
+https://ontome.net/ontology/p1113,refers to name,21520
+https://ontome.net/ontology/p1111i,has appellation for language,21519
+https://ontome.net/ontology/p4i,is time-span of,8174
+https://ontome.net/ontology/p1338i,had carried out,8166
+https://ontome.net/ontology/p1338,was carried out by,8166
+https://ontome.net/ontology/p4,has time-span,8164
+https://ontome.net/ontology/p1335,had departure place,8162
+https://ontome.net/ontology/p1335i,was departure place of,8162
+https://ontome.net/ontology/p150,end of the begin,8136
+https://ontome.net/ontology/p1354,has set up,8030
+https://ontome.net/ontology/p1354i,was set up by,8030
+https://ontome.net/ontology/p1359,participated in,7730
+https://ontome.net/ontology/p1359i,had as participant,7730
+https://ontome.net/ontology/p1336,had arrival place,7610
+https://ontome.net/ontology/p1336i,was arrival place of,7610
+https://ontome.net/ontology/p151,begin of the end,7527
+https://ontome.net/ontology/p147,was a presence of,5269
+https://ontome.net/ontology/p147i,had presence,5269
+https://ontome.net/ontology/p148,was within,5269
+https://ontome.net/ontology/p1112,used in language,37
+https://ontome.net/ontology/p1864,has value version,31
+https://ontome.net/ontology/p63,has language,28
+https://ontome.net/ontology/p1875i,is annotated by,28
+https://ontome.net/ontology/p1875,annotated entity,28
+https://ontome.net/ontology/p1874,at position,28
+https://ontome.net/ontology/p1762,has definition,28
+https://ontome.net/ontology/p1872,is annotated in,28
+https://ontome.net/ontology/p1762i,is definition of,28
+https://ontome.net/ontology/p1872i,has annotation,25
+https://ontome.net/ontology/p1761,has short title,9
+https://ontome.net/ontology/p979,carriers provided by,5
+https://ontome.net/ontology/p979i,comprises carriers of,5
+https://ontome.net/ontology/p1206,has type of manifestation product type,4
+https://ontome.net/ontology/p1206i,is type of,4
+https://ontome.net/ontology/p1317,is part of,4
+https://ontome.net/ontology/p1317i,has as part,4
+https://ontome.net/ontology/p1320i,is expression portion type of,3
+https://ontome.net/ontology/p1216,is reproduction of,3
+https://ontome.net/ontology/p1216i,has reproduction,3
+https://ontome.net/ontology/p1320,has expression portion type,3
+https://ontome.net/ontology/p152,begin of the begin,2
+https://ontome.net/ontology/p153,end of the end,1
+https://ontome.net/ontology/p1190i,is type of,1
+https://ontome.net/ontology/p1190,has built work type,1
