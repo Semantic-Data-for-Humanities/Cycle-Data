@@ -1,0 +1,194 @@
+,left_index,left_captain_name_concat,similarity,right_name_rec,right_index
+130,93,PieterszJan,1.0000001,PieterszJan,1932
+129,1492,PieterszJan,1.0000001,PieterszJan,1932
+0,1402,VerdoesBastiaan,1.0,VerdoesBastiaan,20
+99,659,WinterheimChristiaanFrederik,1.0,WinterheimChristiaan Frederik,1516
+80,1829,DoensenJan,1.0,DoensenJan,1369
+81,1798,DoensenJan,1.0,DoensenJan,1369
+82,1715,DoensenJan,1.0,DoensenJan,1369
+83,1504,BrouwerJan,1.0,BrouwerJan,1389
+84,1172,BrouwerJan,1.0,BrouwerJan,1389
+157,1530,JansenJan,1.0,JansenJan,2366
+160,423,JansenJan,1.0,JansenJan,2366
+158,425,JansenJan,1.0,JansenJan,2366
+159,424,JansenJan,1.0,JansenJan,2366
+162,384,JansenJan,1.0,JansenJan,2366
+161,422,JansenJan,1.0,JansenJan,2366
+85,1171,BrouwerJan,1.0,BrouwerJan,1389
+97,1464,WinterheimChristiaanFrederik,1.0,WinterheimChristiaan Frederik,1516
+79,1842,DoensenJan,1.0,DoensenJan,1369
+173,429,HansenMatthijs,1.0,HansenMatthijs,2511
+17,988,GerritszJan,1.0,GerritszJan,341
+16,1138,GerritszJan,1.0,GerritszJan,341
+185,993,BotPieterJansz,1.0,BotPieter Jansz,2796
+3,37,HageropChristiaan,1.0,HageropChristiaan,74
+4,36,HageropChristiaan,1.0,HageropChristiaan,74
+100,658,WinterheimChristiaanFrederik,1.0,WinterheimChristiaan Frederik,1516
+98,660,WinterheimChristiaanFrederik,1.0,WinterheimChristiaan Frederik,1516
+78,1865,DoensenJan,1.0,DoensenJan,1369
+184,1309,BotPieterJansz,1.0,BotPieter Jansz,2796
+140,304,MurkPieter,1.0,MurkPieter,2000
+15,1404,GerritszJan,1.0,GerritszJan,341
+26,1346,PropPieter,0.99999994,PropPieter,446
+10,464,OutjesJochem,0.99999994,OutjesJochem,186
+8,1304,OutjesJochem,0.99999994,OutjesJochem,186
+120,34,SmitJan,0.99999994,SmitJan,1748
+33,18,CredoJan,0.99999994,CredoJan,571
+9,1298,OutjesJochem,0.99999994,OutjesJochem,186
+113,458,VeldeDanielde,0.948529,VeldeDaniel,1631
+170,774,WoutmanFrederik,0.90590894,HoutmanFrederik,2402
+167,777,WoutmanFrederik,0.90590894,HoutmanFrederik,2402
+168,776,WoutmanFrederik,0.90590894,HoutmanFrederik,2402
+169,775,WoutmanFrederik,0.90590894,HoutmanFrederik,2402
+171,773,WoutmanFrederik,0.90590894,HoutmanFrederik,2402
+180,1432,BrasserMatthijsLaurensz,0.9043949,BrasserMatthijs Laurentsz,2777
+181,1205,BrasserMatthijsLaurensz,0.9043949,BrasserMatthijs Laurentsz,2777
+112,631,VerschuurJan,0.89984167,VerschuurJan ?,1610
+136,180,NoordhoekJohannes,0.89756346,NoordhoekJohan,1983
+135,368,NoordhoekJohannes,0.89756346,NoordhoekJohan,1983
+134,369,NoordhoekJohannes,0.89756346,NoordhoekJohan,1983
+133,370,NoordhoekJohannes,0.89756346,NoordhoekJohan,1983
+132,785,NoordhoekJohannes,0.89756346,NoordhoekJohan,1983
+7,82,BoerAdriaanden,0.8887154,BoerAdriaan,84
+6,257,BoerAdriaanden,0.8887154,BoerAdriaan,84
+5,662,BoerAdriaanden,0.8887154,BoerAdriaan,84
+155,1414,JongPieterde,0.88254213,JongPieter,2334
+35,1172,BrouwerJan,0.88176894,BrouwerJakob,579
+36,1171,BrouwerJan,0.88176894,BrouwerJakob,579
+34,1504,BrouwerJan,0.88176894,BrouwerJakob,579
+23,102,VosJande,0.8801419,VosJan,393
+22,289,VosJande,0.8801419,VosJan,393
+21,528,VosJande,0.8801419,VosJan,393
+20,529,VosJande,0.8801419,VosJan,393
+19,530,VosJande,0.8801419,VosJan,393
+24,1284,TrompJacob,0.87368083,TrompJan,413
+75,1404,GerritszJan,0.8710501,GerritszJakob,1332
+77,988,GerritszJan,0.8710501,GerritszJakob,1332
+76,1138,GerritszJan,0.8710501,GerritszJakob,1332
+11,1520,KlinkAnthony,0.8706295,KlinkAnthonie,203
+42,1831,JansenAdriaan,0.8694905,RensenAdriaan,703
+114,1302,VeldeDanielte,0.86860645,VeldeDaniel,1631
+115,1447,VeldeDanielter,0.8568933,VeldeDaniel,1631
+116,0,VeldeDanielter,0.8568933,VeldeDaniel,1631
+192,856,JanszAbraham,0.85589844,AdriaanszAbraham,2961
+191,1116,JanszLeendert,0.8520894,AdriaanszLeendert,2958
+145,1116,JanszLeendert,0.845222,LeendertszLeendert,2128
+96,70,BakkerJohannes,0.8451038,BakkerJohan,1446
+91,778,BakkerJohannes,0.8451038,BakkerJohan,1446
+95,71,BakkerJohannes,0.8451038,BakkerJohan,1446
+94,116,BakkerJohannes,0.8451038,BakkerJohan,1446
+93,178,BakkerJohannes,0.8451038,BakkerJohan,1446
+92,181,BakkerJohannes,0.8451038,BakkerJohan,1446
+68,93,PieterszJan,0.84205604,PieterszJakob,1119
+67,1492,PieterszJan,0.84205604,PieterszJakob,1119
+186,1168,BotPieter,0.83928585,BotPieter Jansz,2796
+63,34,SmitJan,0.83522564,SmitJakob,1048
+51,328,HambeekHendrik,0.8254111,BeekHendrik,918
+118,34,SmitJan,0.8237225,SmitJan Jansz,1746
+14,1540,KloosterJanvande,0.82004,KloosterJan,314
+13,1885,KloosterJanvande,0.82004,KloosterJan,314
+86,1441,BrouwerJannes,0.81449914,BrouwerJan,1389
+150,1203,ClaaszJochem,0.8134654,KlaaszJochem ?,2262
+149,1738,ClaaszJochem,0.8134654,KlaaszJochem ?,2262
+89,608,BoonJanJansen,0.80753905,BoonJan,1408
+90,607,BoonJanJansen,0.80753905,BoonJan,1408
+88,609,BoonJanJansen,0.80753905,BoonJan,1408
+141,1352,MullerErasmus,0.79605633,MulderErasmus,2008
+154,900,JuistCornelisEwoutsz,0.7931214,JuistKornelis Ewoutsz,2315
+153,1481,JuistCornelisEwoutsz,0.7931214,JuistKornelis Ewoutsz,2315
+152,1820,JuistCornelisEwoutsz,0.7931214,JuistKornelis Ewoutsz,2315
+43,1340,ReijnierszWouter,0.7905612,ReinierszWouter,704
+25,110,SchreuderA,0.789617,SchreuderHendrik,431
+172,850,HesJacob,0.78720915,HesJan,2444
+151,856,JanszAbraham,0.78679323,KlaaszAbraham,2265
+163,1598,JanssenHendrik,0.7820461,JansenHendrik,2367
+182,1432,BrasserMatthijsLaurensz,0.77353007,BrasserMatthijs,2778
+183,1205,BrasserMatthijsLaurensz,0.77353007,BrasserMatthijs,2778
+146,1116,JanszLeendert,0.7713539,LaurenszLeendert,2134
+128,1279,PortGerritvander,0.77061564,PortGerrit,1913
+127,1280,PortGerritvander,0.77061564,PortGerrit,1913
+126,1281,PortGerritvander,0.77061564,PortGerrit,1913
+29,913,CorneliszGovert,0.7686465,JanszGovert,514
+177,702,AntheunissenJan,0.7671981,EissenTheunis,2638
+176,703,AntheunissenJan,0.7671981,EissenTheunis,2638
+44,1432,BrasserMatthijsLaurensz,0.7664318,KosterMatthijs Laurens,776
+45,1205,BrasserMatthijsLaurensz,0.7664318,KosterMatthijs Laurens,776
+41,1303,LodewijkszLodewijk,0.7659467,ThomaszLodewijk,663
+102,495,WiltonJan,0.76465416,WiltonJohn,1518
+101,786,WiltonJan,0.76465416,WiltonJohn,1518
+103,494,WiltonJan,0.76465416,WiltonJohn,1518
+104,493,WiltonJan,0.76465416,WiltonJohn,1518
+143,1818,MichielszMichiel,0.7639371,MichielszJan,2032
+142,1833,MichielszMichiel,0.7639371,MichielszJan,2032
+58,1654,JanszGijsbert,0.76370007,WillemszGijsbert,946
+30,927,HarmenszGovert,0.7633028,JanszGovert,514
+69,852,WoutersBartolomeus,0.76289666,NoutersBartholomeus,1137
+148,1818,MichielszMichiel,0.7578113,KorneliszMichiel,2200
+147,1833,MichielszMichiel,0.7578113,KorneliszMichiel,2200
+18,1358,BrestJan,0.7557832,EstJan,344
+46,1116,JanszLeendert,0.7529683,JakobszLeendert,807
+66,795,PompDirkGerritsz,0.7487538,PompDirk,1112
+189,291,BaaneJanCornelis,0.7479471,BaaneJan Kornelis,2908
+187,293,BaaneJanCornelis,0.7479471,BaaneJan Kornelis,2908
+190,290,BaaneJanCornelis,0.7479471,BaaneJan Kornelis,2908
+188,292,BaaneJanCornelis,0.7479471,BaaneJan Kornelis,2908
+178,818,DanserSimonden,0.7464187,DanserSimon Dirksz,2723
+179,814,DanserSimonden,0.7464187,DanserSimon Dirksz,2723
+56,457,SwartJan,0.7447591,ZwartJan,933
+55,459,SwartJan,0.7447591,ZwartJan,933
+54,460,SwartJan,0.7447591,ZwartJan,933
+53,461,SwartJan,0.7447591,ZwartJan,933
+52,743,SwartJan,0.7447591,ZwartJan,933
+166,769,JurriaansenHendrik,0.7444652,JansenHendrik,2367
+164,771,JurriaansenHendrik,0.7444652,JansenHendrik,2367
+165,770,JurriaansenHendrik,0.7444652,JansenHendrik,2367
+32,437,AndriessenChristiaan,0.739479,HansenChristiaan,533
+31,722,AndriessenChristiaan,0.739479,HansenChristiaan,533
+72,554,JolDavid,0.7375636,KoolDavid,1228
+74,308,JolDavid,0.7375636,KoolDavid,1228
+71,555,JolDavid,0.7375636,KoolDavid,1228
+73,309,JolDavid,0.7375636,KoolDavid,1228
+40,769,JurriaansenHendrik,0.7373965,BenHendrik Jurriaansz,599
+38,771,JurriaansenHendrik,0.7373965,BenHendrik Jurriaansz,599
+39,770,JurriaansenHendrik,0.7373965,BenHendrik Jurriaansz,599
+122,1470,EnderLaurens,0.7355626,RuiterLaurens,1835
+105,378,MeesterHendrik,0.73382324,WestermeerHendrik,1544
+110,1022,LensChristoffel,0.7325327,VosChristoffel,1576
+109,1244,LensChristoffel,0.7325327,VosChristoffel,1576
+107,1780,LensChristoffel,0.7325327,VosChristoffel,1576
+108,1650,LensChristoffel,0.7325327,VosChristoffel,1576
+111,1018,LensChristoffel,0.7325327,VosChristoffel,1576
+106,1862,LensChristoffel,0.7325327,VosChristoffel,1576
+131,1078,OversluijsPieter,0.7303188,OversluisPieter,1963
+27,1657,JansenLeendert,0.73008865,LindenLeendert,474
+28,1456,JansenLeendert,0.73008865,LindenLeendert,474
+57,518,WolfJ,0.727777,WolfJohan,939
+144,801,LuciferPieter,0.7268288,LuciferHendrik,2085
+125,964,HovenFrederikFrederikszvan,0.7262968,RijksFrederik Frederiksz,1869
+123,1695,HovenFrederikFrederikszvan,0.7262968,RijksFrederik Frederiksz,1869
+124,1228,HovenFrederikFrederikszvan,0.7262968,RijksFrederik Frederiksz,1869
+70,1831,JansenAdriaan,0.72610235,KrijnsenAdriaan,1209
+48,1749,DiemenseJan,0.7208518,DiemenJan,865
+47,1870,DiemenseJan,0.7208518,DiemenJan,865
+49,1733,DiemenseJan,0.7208518,DiemenJan,865
+119,34,SmitJan,0.7196553,SmitJan Hendrik,1747
+12,35,SchrijverJande,0.71868724,SchrijverJan Frederik,273
+121,110,SchreuderA,0.7186361,SchreuderChristiaan,1797
+37,1441,BrouwerJannes,0.71819997,BrouwerJakob,579
+2,702,AntheunissenJan,0.7177864,HaanTheunis,42
+1,703,AntheunissenJan,0.7177864,HaanTheunis,42
+59,1250,WarwijkJan,0.7163223,WijkJan,950
+62,1116,JanszLeendert,0.71514446,ThomaszLeendert,1013
+64,1123,ReijndersSalomon,0.71354103,ReyndersSalomon,1094
+65,1470,EnderLaurens,0.7119962,PotterLaurens,1107
+61,1629,VisserJasper,0.71155137,VisserJan,979
+60,1639,VisserJasper,0.71155137,VisserJan,979
+139,1065,RasPieter,0.70956403,NasPieter,1997
+137,1295,RasPieter,0.70956403,NasPieter,1997
+138,1294,RasPieter,0.70956403,NasPieter,1997
+156,1761,JasperszJoris,0.7083546,JasperszJan,2345
+117,1553,CredoWillem,0.704106,ToledoWillem,1657
+50,64,EggersMarten,0.7036103,BurgersMarten,876
+174,1492,PieterszJan,0.70266855,EverszJan,2623
+175,93,PieterszJan,0.70266855,EverszJan,2623
+87,1168,BotPieter,0.7019601,BootPieter,1405
