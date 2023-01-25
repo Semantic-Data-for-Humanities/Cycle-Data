@@ -27,13 +27,18 @@ def query_to_table(spql_queried):
 
     try:
         spql_return = spql_queried.queryAndConvert()
-
+        
         for ret in spql_return["results"]["bindings"]:
             for var in ret.keys():
-                if var in preparing.keys():
+                if var not in preparing.keys():
+                    preparing[var] = []
+                    
+        for ret in spql_return["results"]["bindings"]:
+            for var in preparing.keys():
+                if var in ret.keys():
                     preparing[var].append(ret[var]['value'])
                 else:
-                    preparing[var] = [ret[var]['value']]
+                    preparing[var].append('None')
         return pd.DataFrame(preparing)
 
     except Exception as e:
